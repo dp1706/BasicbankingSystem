@@ -1,16 +1,33 @@
-# basicbankingsystem
+# `Basic-Banking-System`
 
-A Basic Banking System
+## Project Details:
 
-## Getting Started
+   * @Author : `Dwarka prasad Bairwa(1801061)`
+   
+   * Project Name : `Basic Banking System`
 
-This project is a starting point for a Flutter application.
+   * Requirements :
+   
+    1. Database Server : Firebase
+    2. Client : Android/i-OS
+    3. Development Tools : Android Studio , VS Code
+    4. Programming Language : Dart
+    5. SDK : Flutter
+    
+## Screen
+ * splash Screen & Home Screen
+ 
+   <img src="ReadmeImages/zero.png" height=400></img>
+   <img src="ReadmeImages/first.png" height=400></img>
 
-A few resources to get you started if this is your first Flutter project:
+ * Other Screens
+ 
+   <img src="ReadmeImages/second.png" height=400></img>
+   <img src="ReadmeImages/third.png" height=400></img>
+   <img src="ReadmeImages/fourth.png" height=400></img>
+   <img src="ReadmeImages/five.png" height=400></img>
+   <img src="ReadmeImages/six.png" height=400></img>
+   <img src="ReadmeImages/seven.png" height=400></img>
+   <img src="ReadmeImages/eight.png" height=400></img>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
