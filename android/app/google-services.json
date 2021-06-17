@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823679098525",
+    "project_id": "basic-bank-details",
+    "storage_bucket": "basic-bank-details.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823679098525:android:097bb97484fc164f3b7e74",
+        "android_client_info": {
+          "package_name": "com.example.basicbankingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823679098525-85s1ilh9bbe48l5fmhaa0uc3l6shko41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_DkNqTZGLTp-rmWXqA7QC7t2EUeK5a2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823679098525-85s1ilh9bbe48l5fmhaa0uc3l6shko41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
